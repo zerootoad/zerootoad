@@ -1,4 +1,2 @@
-# <center>zeroo</center>
-## <center>unknown skidder</center>
-
-
+### Languages
+![Python](images/python.png)
