@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
 [![Discord](https://img.shields.io/discord/1197954405245390909?style=for-the-badge&logo=discord&logoColor=%235865F2&label=%20&labelColor=%23333333&color=%23333333)](https://discord.gg/xGAK287uDa)
-</div>
+</p>
 
 <p align="justify"> 
 Hello, I'm codepulze, a self-taught developer with 5-6 years of experience. My stack is below.
