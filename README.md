@@ -5,6 +5,7 @@
 Sup everyone, i'm zeroo a self taught dev with 1-2 year of experience. I mainly make tools for multiple purposes.
 </p>
 
+### Laguages
 <table>
   <tr>
     <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Ftinkercademy.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fpython-icon.png%3Fssl%3D1&f=1&nofb=1&ipt=342fa960dec28423382ada2f09eb505b6ff91362b786b2a84f27cbcac505ec7e&ipo=images" alt="Python" width="65" height="65"></td>
@@ -19,14 +20,10 @@ Sup everyone, i'm zeroo a self taught dev with 1-2 year of experience. I mainly 
   </tr>
 </table>
 
-
-# 🎫 Coding Services SEND DM 🎫
-- [Telegram](https://t.me/codepulze)
-- t.me/codepulze
-- Discord: codepulze
-
 <div align="center">
+<picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/v
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake.svg">
+</div>
