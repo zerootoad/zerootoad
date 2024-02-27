@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/153208404?v=4" alt="zeroo" width="120" height="120">
 </div>
-<div align="center"><h2>zeroo</h2></div>
+<div align="center"><h1>zeroo</h1></div>
 
 ### About Me
 <p align="justify"> 
