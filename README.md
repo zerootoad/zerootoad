@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/1197954405245390909?style=for-the-badge&logo=discord&logoColor=%235865F2&label=%20&labelColor=%23333333&color=%23333333)](https://discord.gg/xGAK287uDa)
+
 
 ## About Me
 <p align="justify"> 
@@ -18,6 +18,10 @@ Hey there, I'm Zeroo, a passionate self-taught developer with 1-2 years of exper
 - **FairBlox**: in WIP...
 - **Reborn+ Nuker**: Upcoming soon...
 - **Reborn+ Stealer**: Upcoming soon...
+
+## Get in contact
+- [![Discord](https://img.shields.io/discord/1197954405245390909?style=for-the-badge&logo=discord&logoColor=%235865F2&label=%20&labelColor=%23333333&color=%23333333)](https://discord.gg/xGAK287uDa)
+- Discord ID: wzeroo --> in case of server term
 
 <div align="center">
   <picture>
