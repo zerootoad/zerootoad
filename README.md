@@ -1,4 +1,5 @@
-[![Discord](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F12%2FDiscord-Logo.png&f=1&nofb=1&ipt=b572f82b213a299515d4509e5ca26d6f3426dad380481f1741475b09fd60ddd6&ipo=images)](https://discord.com/users/1120353507975897138)&nbsp;&nbsp;&nbsp;
+![Discord](https://img.shields.io/discord/1197954405245390909?style=for-the-badge&logo=discord&logoColor=%235865F2&label=%20&labelColor=%23333333&color=%23333333)
+&nbsp;&nbsp;&nbsp;
 
 <p align="justify"> 
 Hello, I'm codepulze, a self-taught developer with 5-6 years of experience. My stack is below.
