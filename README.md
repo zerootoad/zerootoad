@@ -1,7 +1,7 @@
 [![Discord](https://img.shields.io/discord/1197954405245390909?style=for-the-badge&logo=discord&logoColor=%235865F2&label=%20&labelColor=%23333333&color=%23333333)](https://discord.gg/xGAK287uDa)
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/153208404?v=4" alt="zeroo" width="65" height="65">
+  <img src="https://avatars.githubusercontent.com/u/153208404?v=4" alt="zeroo" width="120" height="120">
 </div>
 <div align="center"><h>zeroo</h></div>
 
