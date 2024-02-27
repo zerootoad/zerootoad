@@ -2,7 +2,7 @@
 
 ## About Me
 <p align="justify"> 
-Hey there, I'm Zeroo, a passionate self-taught developer with 1-2 years of experience. I thrive on crafting innovative tools tailored for various purposes, aiming to streamline processes and enhance productivity.
+Hey there, I'm Zeroo, a passionate self-taught developer with 1-2 years of experience. I mainly code tools for various purposes, aiming to productivity.
 </p>
 
 ### Languages
@@ -15,9 +15,9 @@ Hey there, I'm Zeroo, a passionate self-taught developer with 1-2 years of exper
 </div>
 
 ## Projects
-- **Project Name**: Description of the project. [Link to GitHub/Project]
-- **Project Name**: Description of the project. [Link to GitHub/Project]
-- **Project Name**: Description of the project. [Link to GitHub/Project]
+- **FairBlox**: in WIP...
+- **Reborn+ Nuker**: Upcoming soon...
+- **Reborn+ Stealer**: Upcoming soon...
 
 <div align="center">
   <picture>
