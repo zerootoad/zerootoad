@@ -7,7 +7,7 @@
 
 ### About Me
 <p align="justify"> 
-Hey there, I'm Zeroo, a passionate self-taught developer with 1-2 years of experience. I mainly code tools for various purposes, aiming for productivity.
+Hey there, I'm Zeroo, a self-taught developer with 1-2 years of experience. I mainly code tools for various purposes.
 </p>
 
 ### languages
