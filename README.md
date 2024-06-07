@@ -25,7 +25,7 @@ Hey there, I'm Zeroo, a self-taught developer with 1-2 years of experience. I ma
 - **Reborn+ Stealer**: Upcoming soon...
 
 ### Get in contact
-- Discord ID: 3meno --> in-case of term: v_z2r
+- Discord ID: zerootoad --> in-case of term: v_z2r
 
 <div align="center">
   <picture>
