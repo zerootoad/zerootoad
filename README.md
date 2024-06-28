@@ -1,11 +1,6 @@
-<div align="center">
-    <svg height="175" width="175">
-        <clipPath id="circleClip">
-            <circle cx="87.5" cy="87.5" r="87.5" />
-        </clipPath>
-        <image xlink:href="https://avatars.githubusercontent.com/u/153208404?v=4" width="175" height="175" clip-path="url(#circleClip)" />
-    </svg>
-</div>
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/153208404?v=4" alt="zeroo" width="175" height="175">
+</p>
 
 <div align="center">
     <h1>zerootoad</h1>
