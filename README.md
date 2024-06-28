@@ -7,11 +7,11 @@
 
 ### About Me
 <p align="justify"> 
-Hey there, I'm Zeroo, a self-taught developer with 1-2 years of experience. I mainly code tools for various purposes.
+Hey there, I'm zeroo, a self-taught developer with 2+ years of experience and i code for fun!
 </p>
 
 ### languages
-<div align="justify">
+<div align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=57e7c904157c1612b74ef616e7a4c71221668e1beb1554ca5b3ca285ae49844b&ipo=images" alt="Python" width="65" height="65">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandlogos.net%2Fwp-content%2Fuploads%2F2022%2F01%2Fc-brandlogo.net_-768x768.png&f=1&nofb=1&ipt=afa35b0fbb40e9853f665512732dec07b045c4a7682db6911b96fe90a2b97064&ipo=images" alt="C++" width="68" height="68">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2F85%2Fdc%2Fe185dc6ca57c6559bfeb5aa7de50cd5e.png&f=1&nofb=1&ipt=8c85aec6b289b426abfe08a690e008768509f004c67b73b2b36a1df2c7ead24b&ipo=images" alt="C#" width="65" height="65">
