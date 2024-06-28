@@ -1,15 +1,7 @@
-![image alt ><](https://avatars.githubusercontent.com/u/153208404?v=4)
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/153208404?v=4" alt="zeroo" style="border-radius: 50%; width: 175px; height: 175px;">
+</div>
 
-img[alt$="><"] {
-    width: 175px;
-    height: 175px;
-    border-radius: 50%;
-    overflow: hidden;
-    background-color: transparent;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 <div align="center">
     <h1>zerootoad</h1>
 </div>
