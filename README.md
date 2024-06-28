@@ -1,5 +1,10 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/153208404?v=4" alt="zeroo" style="border-radius: 50%; width: 175px; height: 175px; object-fit: cover;">
+    <svg height="175" width="175">
+        <clipPath id="circleClip">
+            <circle cx="87.5" cy="87.5" r="87.5" />
+        </clipPath>
+        <image xlink:href="https://avatars.githubusercontent.com/u/153208404?v=4" width="175" height="175" clip-path="url(#circleClip)" />
+    </svg>
 </div>
 
 <div align="center">
