@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://avatars.githubusercontent.com/u/153208404?v=4" alt="zeroo" width="175" height="175">
-</p>
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/153208404?v=4" alt="zeroo" style="border-radius: 50%; width: 175px; height: 175px;">
+</div>
 
 <div align="center">
     <h1>zerootoad</h1>
