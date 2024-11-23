@@ -11,5 +11,5 @@
     <img src="https://duckduckgo.com/i/074bab0a.png" alt="lua" width="50" height="50">
     <img src="https://external-content.duckduckgo.com/ip3/luau-lang.org.ico" alt="luau" width="50" height="50">
     <img src="https://external-content.duckduckgo.com/ip3/go.dev.ico" alt="golang" width="50" height="50">
-    <img src="https://imgs.search.brave.com/e6QgXkM420NayfRebBtVfmUpFgQIDf4IS3WP6w7GLqE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTE1OGE2OGMy/NGY3N2I1OGZlNjli/MjNmNWEyNWYzYWU5/ZmE2ZTM3OGQ1MzIz/Y2U5MDFlODJmNTY2/NjNkZmM3Yi93d3cu/cnVzdC1sYW5nLm9y/Zy8" alt="rust" width="50" height="50">
+    <img src="https://imgs.search.brave.com/mb5Xg_m21rJshD7uPfzc4BR_nfx2qCIAnIDI7XnAY6c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lbW9qaXBuZy5j/b20vNzMxLzEyMjgx/NzMxLmpwZw" alt="rust" width="50" height="50">
 </div>
