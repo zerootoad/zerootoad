@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# About Me:
 pizza mafia sigmalord zeroo #RustOrBust
 
 ## 🌐 Socials:
