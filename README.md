@@ -6,7 +6,7 @@ nun much dawg, jus zeroo!
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zeroobytes)  
 
 ## 💻 Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=go,rust,zig,c,cs,cpp,java,nodejs,js,html,css,py,pytorch,v,lua,bash,docker,gradle,dotnet,robloxstudio,arduino,discord,git,windows,powershell,linux,arch,mongodb,mysql&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,zig,c,cs,cpp,java,nodejs,js,nextjs,html,css,tailwind,py,pytorch,v,lua,bash,docker,robloxstudio,arduino,git,linux,arch&perline=9)](https://skillicons.dev)
 
 ## 📈 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zerootoad&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
